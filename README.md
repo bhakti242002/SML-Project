@@ -120,7 +120,7 @@ python predict_image.py --image_path <path_to_image>
 |----------------------------|----------------|
 | Logistic Regression        | 17.98%         |
 | Logistic Regression + PCA  | 18.66%         |
-| Convolutional Neural Network (CNN) | **45.13%**  |
+| Convolutional Neural Network (CNN) | **52.57%**  |
 
 The CNN significantly outperformed Logistic Regression methods.
 
